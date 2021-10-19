@@ -2,10 +2,11 @@
 This is a setup test based on linters.
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-![screenshot](./S![Screenshot ](/image/screenshot2021.png)creenshot.png)
+![screenshot](./S![Screenshot ](/assets/screenshot2021.png)screenshot.png)
 
 Additional description about the project and its features.
 this setup is to show that i understand how linters setting work.
+This project introduces some of what you can do with linting using ESLint on Visual Studio Code. Linting tools like ESLint can help create time for more complex tasks by automating and simplifying how you verify syntax and best practices.
 
 ## Built With
 
